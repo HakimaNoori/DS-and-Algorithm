@@ -8,3 +8,4 @@ This repository houses a collection of comprehensive solutions for various data 
 - [Is the String Empty](./Challenges/String-Empty.js)
 - [Length of a String](./Challenges/Length-of-a-String.js)
 - [Return a String as an Integer](./Challenges/String-to-Integer.js)
+- [Name Greeting!](./Challenges/Name-Greeting.js)
