@@ -10,3 +10,4 @@ This repository houses a collection of comprehensive solutions for various data 
 - [Return a String as an Integer](./Challenges/String-to-Integer.js)
 - [Name Greeting!](./Challenges/Name-Greeting.js)
 - [Word without First Character](./Challenges/Word-without-First-Character.js)
+- [ArrayToString](./Challenges/Array-ToString.js)
