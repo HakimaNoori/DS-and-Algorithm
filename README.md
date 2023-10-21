@@ -9,3 +9,4 @@ This repository houses a collection of comprehensive solutions for various data 
 - [Length of a String](./Challenges/Length-of-a-String.js)
 - [Return a String as an Integer](./Challenges/String-to-Integer.js)
 - [Name Greeting!](./Challenges/Name-Greeting.js)
+- [Word without First Character](./Challenges/Word-without-First-Character.js)
