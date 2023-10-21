@@ -11,3 +11,4 @@ This repository houses a collection of comprehensive solutions for various data 
 - [Name Greeting!](./Challenges/Name-Greeting.js)
 - [Word without First Character](./Challenges/Word-without-First-Character.js)
 - [ArrayToString](./Challenges/Array-ToString.js)
+- [AelationToLuke](./Challenges/Relation-ToLuke.js)
