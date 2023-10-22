@@ -16,3 +16,4 @@ This repository houses a collection of comprehensive solutions for various data 
 - [IsLastCharacterN](./Challenges/Is-Last-Character-N.js)
 - [Is the Last Character an "N"?](./Challenges/isLastCharacterN.js)
 - [Is the Word Singular or Plural?](./Challenges/isPlural.js)
+- [firstLast](./Challenges/firstLast.js)
