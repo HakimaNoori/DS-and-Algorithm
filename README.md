@@ -12,3 +12,5 @@ This repository houses a collection of comprehensive solutions for various data 
 - [Word without First Character](./Challenges/Word-without-First-Character.js)
 - [ArrayToString](./Challenges/Array-ToString.js)
 - [AelationToLuke](./Challenges/Relation-ToLuke.js)
+- [IsLastCharacterN](./Challenges/Is-Last-Character-N.js)
+- [Slice Check Repeat Concatenate](./Challenges/Slice-Check-Repeat-Concatenate.js)
