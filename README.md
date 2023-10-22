@@ -17,3 +17,4 @@ This repository houses a collection of comprehensive solutions for various data 
 - [Is the Last Character an "N"?](./Challenges/isLastCharacterN.js)
 - [Is the Word Singular or Plural?](./Challenges/isPlural.js)
 - [firstLast](./Challenges/firstLast.js)
+- [How-Edabit-Works](./Challenges/How-Edabit-Works.js)
