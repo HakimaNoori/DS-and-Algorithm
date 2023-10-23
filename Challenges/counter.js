@@ -7,4 +7,4 @@ function counter() {
     console.log(`${count}C`);
   }
   counter();
-  console.log(counter();)
+  console.log(counter());
