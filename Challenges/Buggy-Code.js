@@ -1,7 +1,8 @@
 function greeting(name) {
     if (name === "Mobashir") {
         return "Hello, My Love!";
-    } else {
+    } 
+    else {
         return "Hello, " + name + "!";
     }
 }
