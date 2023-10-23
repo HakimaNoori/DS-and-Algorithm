@@ -6,5 +6,6 @@
   }
   console.log(firstLast("ganesh"));
   console.log(firstLast("kali"));
+  console.log(firstLast("shiva"));
   
   
