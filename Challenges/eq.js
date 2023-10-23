@@ -7,4 +7,5 @@ function eq(str) {
   console.log(eq("3 + 2 - 4"));
   console.log(eq("2 + 4*12-34+211"));
   console.log(eq("23*12/8"))
+  console.log(eq("34/12"))
  
