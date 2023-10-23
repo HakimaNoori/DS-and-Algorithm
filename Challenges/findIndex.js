@@ -6,5 +6,7 @@
   console.log(findIndex(["Red", "blue", "Blue", "Green"], "Blue"));
   console.log(findIndex(["a", "g", "y", "d"], "d"));
   console.log(findIndex(["Pineapple", "Orange", "Grape", "Apple"], "Pineapple"));
+  console.log(findIndex(["12", "1", "34", "5"], "12"));
+
   
  
