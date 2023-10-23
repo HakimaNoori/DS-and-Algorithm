@@ -4,7 +4,7 @@
     let last= str.slice(-1);
     return naeStr = first + last
   }
-  console.log(firstLast("ganesh"))
+  console.log(firstLast("ganesh"));
   console.log(firstLast("kali"));
   console.log(firstLast("shiva"));
   console.log(firstLast("vishnu"));
