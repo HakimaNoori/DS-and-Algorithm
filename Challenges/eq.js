@@ -10,4 +10,4 @@ function eq(str) {
   console.log(eq("34/12"));
   console.log(eq("78-453*67"));
   console.log(eq("8989+897654"));
-  console.log(eq("90(12?234)-987"))
+  console.log(eq("90(12?234)-987"));
