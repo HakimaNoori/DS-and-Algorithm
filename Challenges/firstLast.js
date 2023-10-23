@@ -8,5 +8,5 @@
   console.log(firstLast("kali"));
   console.log(firstLast("shiva"));
   console.log(firstLast("vishnu"));
-  console.log(firstLast("durga"));
+  console.log(firstLast("durga"))
   
