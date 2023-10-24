@@ -8,4 +8,4 @@ function intOrString(word){
   }
   console.log(intOrString(8));
   console.log(intOrString("Hello"));
-  console.log(intOrString(9843532))
+  console.log(intOrString(9843532));
