@@ -9,4 +9,4 @@ function converFirstLetterToUpperCase(str){
     var result = words.join(" ");
     return result;
   }
-  console.log(converFirstLetterToUpperCase("this is a gread book"))
+  console.log(converFirstLetterToUpperCase("this is a gread book"));
