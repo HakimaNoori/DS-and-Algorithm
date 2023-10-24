@@ -41,4 +41,5 @@ This repository houses a collection of comprehensive solutions for various data 
 - [Array of Strings to Array of Numbers](./Challenges/toNumberArray.js)
 - [Array.prototype.concat()](./Challenges/stutter.js)
 - [ Repeat String](./Challenges/repeatString.js)
+- [ count the Syllables](./Challenges/stringInt.js)
 
