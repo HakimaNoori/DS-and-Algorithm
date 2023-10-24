@@ -6,3 +6,6 @@ function intOrString(word){
       return "str";
     }
   }
+  console.log(intOrString(8));
+  console.log(intOrString("Hello"));
+  console.log(intOrString(9843532));
