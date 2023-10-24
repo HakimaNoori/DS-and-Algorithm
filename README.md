@@ -40,4 +40,5 @@ This repository houses a collection of comprehensive solutions for various data 
 - [ Front 3 - Slice Check Repeat Concatenate](./Challenges/frontThree.js)
 - [Array of Strings to Array of Numbers](./Challenges/toNumberArray.js)
 - [Array.prototype.concat()](./Challenges/stutter.js)
+- [ Repeat String](./Challenges/repeatString.js)
 
