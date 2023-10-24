@@ -42,4 +42,5 @@ This repository houses a collection of comprehensive solutions for various data 
 - [Array.prototype.concat()](./Challenges/stutter.js)
 - [ Repeat String](./Challenges/repeatString.js)
 - [ count the Syllables](./Challenges/stringInt.js)
+- [Char-to-ASCLL](./Challenges/Char-to-ASCLL.js)
 
