@@ -3,4 +3,4 @@ function countSyllables(word) {
   }
   console.log(countSyllables("Lalalalalalala"));
   console.log(countSyllables("Hehehehehehehehehehe"));
-  console.log(countSyllables("NANANANA"))
+  console.log(countSyllables("NANANANA"));
