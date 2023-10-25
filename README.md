@@ -46,4 +46,5 @@ This repository houses a collection of comprehensive solutions for various data 
 - [Case Insensitive Comparison](./Challenges/Case-Insensitive-Comparison.js)
 - [String or Integer?](./Challenges/intOrString.js)
 - [Conver first letter toUpperCase](./Challenges/converFirstLetterToUpperCase.js)
+- [findMaxLength](./Challenges/findIndex.js)
 
