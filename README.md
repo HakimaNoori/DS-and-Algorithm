@@ -48,4 +48,5 @@ This repository houses a collection of comprehensive solutions for various data 
 - [Conver first letter toUpperCase](./Challenges/converFirstLetterToUpperCase.js)
 - [findMaxLength](./Challenges/findIndex.js)
 - [helloWorld](./Challenges/helloWorld.js)
+- [tolnt](./Challenges/tolnt.js)
 
