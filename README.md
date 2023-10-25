@@ -49,4 +49,5 @@ This repository houses a collection of comprehensive solutions for various data 
 - [findMaxLength](./Challenges/findIndex.js)
 - [helloWorld](./Challenges/helloWorld.js)
 - [tolnt](./Challenges/tolnt.js)
+- [tostr](./Challenges/tosrt.js)
 
