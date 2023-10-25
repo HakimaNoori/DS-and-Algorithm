@@ -14,4 +14,6 @@ function helloWorld(num) {
     }
   }
   console.log(helloWorld(3))
- 
+  console.log(helloWorld(5))
+  console.log(helloWorld(15))
+  console.log(helloWorld(7))
