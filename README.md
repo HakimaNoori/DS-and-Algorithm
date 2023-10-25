@@ -47,4 +47,5 @@ This repository houses a collection of comprehensive solutions for various data 
 - [String or Integer?](./Challenges/intOrString.js)
 - [Conver first letter toUpperCase](./Challenges/converFirstLetterToUpperCase.js)
 - [findMaxLength](./Challenges/findIndex.js)
+- [helloWorld](./Challenges/helloWorld.js)
 
