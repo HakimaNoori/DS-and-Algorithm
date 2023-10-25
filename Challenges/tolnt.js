@@ -5,5 +5,5 @@
   console.log(tolnt("77"));
   console.log(tolnt("532"));
   console.log(tolnt("1234"));
-  console.log(tolnt("231"))
+  console.log(tolnt("231"));
   console.log(tolnt(32))
