@@ -8,4 +8,4 @@ function findMaxLength(arr) {
     }
     return maxArr;
   }
-  console.log(findMaxLength(["Sara", "Hamid", "Ahmad", "mohammad"]))
+  console.log(findMaxLength(["Sara", "Hamid", "Ahmad", "mohammad"]));
