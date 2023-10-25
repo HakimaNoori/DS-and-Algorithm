@@ -3,4 +3,4 @@
     return parseInt(str);
   }
   console.log(tolnt("77"));
-  console.log(tolnt("532"));
+  
