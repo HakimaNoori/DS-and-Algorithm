@@ -52,4 +52,5 @@ This repository houses a collection of comprehensive solutions for various data 
 - [tostr](./Challenges/tosrt.js)
 - [amazingEdabit](./Challenges/includes.js)
 - [getLastItem](./Challenges/getLastItem.js)
+- [concat](./Challenges/concat.js)
 
