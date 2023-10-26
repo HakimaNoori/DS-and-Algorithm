@@ -53,4 +53,5 @@ This repository houses a collection of comprehensive solutions for various data 
 - [amazingEdabit](./Challenges/includes.js)
 - [getLastItem](./Challenges/getLastItem.js)
 - [concat](./Challenges/concat.js)
+- [arrayToString](./Challenges/arrayToString.js)
 
