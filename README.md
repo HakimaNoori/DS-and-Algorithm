@@ -51,4 +51,5 @@ This repository houses a collection of comprehensive solutions for various data 
 - [tolnt](./Challenges/tolnt.js)
 - [tostr](./Challenges/tosrt.js)
 - [amazingEdabit](./Challenges/includes.js)
+- [getLastItem](./Challenges/getLastItem.js)
 
